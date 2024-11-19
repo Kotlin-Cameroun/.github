@@ -16,22 +16,16 @@
 
 ## Join the Community 🚀
 
-- **Discussions**: [Forum or WhatsApp Group](link-to-your-group)
+- **Discussions**: [WhatsApp Group](https://chat.whatsapp.com/BNuuvoEmC5B3pT7XrRsLLO)
 - **Events**: Participate in meetups and workshops.
 - **Contributions**: Collaborate on open-source projects with us!
-
----
-
-## Contact 📬
-
-For any questions or collaboration opportunities, feel free to reach out at **[your-email@example.com](mailto:your-email@example.com)**.
 
 ---
 
 ### Maintainers 🤝
 
 This project is maintained by:
-- [@YourUsername](https://github.com/YourUsername)
-- [@AnotherUsername](https://github.com/AnotherUsername)
+- [@Icode](https://github.com/pouani)
+- [@Beinjamin](https://github.com/beinjamin)
 
 Thank you for being part of this journey to elevate **Kotlin Cameroon** to new heights! 💡
