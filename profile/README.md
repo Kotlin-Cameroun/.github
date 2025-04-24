@@ -22,12 +22,57 @@
 
 ---
 
-### Maintainers 🤝
+## **💡 Get Involved**  
 
-This project is maintained by:
-- [@Icode](https://github.com/pouani)
-- [@Beinjamin](https://github.com/beinjamin)
-- [@juniortemgoua0](https://github.com/juniortemgoua0)
-- [@airalpha](https://github.com/airalpha)
+### 👥 **For Members**  
+- Join our [Telegram Group](https://t.me/+N17rRrg3Vew1Y2U0)  
+- Attend **monthly events** (hackathons, live-coding sessions).  
+- Share projects with `#KotlinCameroon` on social media.  
 
-Thank you for being part of this journey to elevate **Kotlin Cameroon** to new heights! 💡
+### 🛠 **For Contributors**  
+1. **Propose** a workshop topic or write a technical article.  
+2. **Contribute** to our GitHub projects:  
+   - [PokeNative](https://github.com/Kotlin-Cameroun/PokeNative.git) *(Pokenative Android)*  
+   - [timetrack](https://github.com/Kotlin-Cameroun/timetrack.git) *(SpringBoot + Kotlin)*  
+3. **Mentor** aspiring developers.  
+
+---
+
+## **🌟 Core Team**  
+
+<div align="center">
+  <a href="https://github.com/ulrichpouani">
+    <img src="https://github.com/ulrichpouani.png" width="50" style="border-radius:50%">
+  </a>
+  <a href="https://github.com/beinjamin">
+    <img src="https://github.com/beinjamin.png" width="50" style="border-radius:50%">
+  </a>
+  <a href="https://github.com/juniortemgoua0">
+    <img src="https://github.com/juniortemgoua0.png" width="50" style="border-radius:50%">
+  </a>
+  <a href="https://github.com/airalpha">
+    <img src="https://github.com/airalpha.png" width="50" style="border-radius:50%">
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/ulrichpouani">Ulrich Pouani</a> •
+  <a href="https://github.com/beinjamin">Beinjamin</a> •
+  <a href="https://github.com/juniortemgoua0">Junior Temgoua</a> •
+  <a href="https://github.com/airalpha">Air Alpha</a>
+</p>
+
+---
+
+## **📌 Next Steps**  
+1. ⭐ **Star this repo** to support our community.  
+2. 📩 **Contact us**: support@kotlin.cm.
+3. 🌐 **Follow us**: [Twitter](#) | [LinkedIn](#) | [YouTube](#).  
+
+---
+
+<p align="center">
+  <em>Built with ❤️ in Yaoundé, Douala, and across Cameroon</em>  
+  <br>
+  <img src="https://img.shields.io/github/stars/Kotlin-Cameroon/community?style=social" alt="GitHub Stars">
+</p>
