@@ -1,6 +1,6 @@
 # Welcome to Kotlin Cameroon 🇨🇲
 
-![Kotlin Cameroon Logo](https://media.licdn.com/dms/image/v2/D4E0BAQG6M3sl8Lfp1w/company-logo_200_200/company-logo_200_200/0/1732018774741/kotlin_douala_user_group_logo?e=1740009600&v=beta&t=W1IX4YYbZBHfjhht_t5daFJWj_L0ZQ5OAxdWvqRPOmI)
+![Kotlin Cameroon Logo](https://media.licdn.com/dms/image/v2/D4E0BAQG9HUJNzo1Izw/company-logo_100_100/company-logo_100_100/0/1732036907778/kotlin_douala_user_group_logo?e=1750896000&v=beta&t=awAuy6UqqqmOj51MIIzxYILwJx5WaNu4oOqhhnZOIsc)
 
 **Kotlin Cameroon** is a community dedicated to promoting learning, knowledge sharing, and application development using the **Kotlin** programming language. Whether you are a beginner or an experienced developer, we help you grow your skills through resources, events, and collaborations.
 
