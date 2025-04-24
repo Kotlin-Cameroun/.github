@@ -41,8 +41,8 @@
 ## **🌟 Core Team**  
 
 <div align="center">
-  <a href="https://github.com/ulrichpouani">
-    <img src="https://github.com/ulrichpouani.png" width="50" style="border-radius:50%">
+  <a href="https://github.com/pouani">
+    <img src="https://github.com/pouani.png" width="50" style="border-radius:50%">
   </a>
   <a href="https://github.com/beinjamin">
     <img src="https://github.com/beinjamin.png" width="50" style="border-radius:50%">
@@ -56,7 +56,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/ulrichpouani">Ulrich Pouani</a> •
+  <a href="https://github.com/pouani">Ulrich Pouani</a> •
   <a href="https://github.com/beinjamin">Beinjamin</a> •
   <a href="https://github.com/juniortemgoua0">Junior Temgoua</a> •
   <a href="https://github.com/airalpha">Air Alpha</a>
@@ -74,5 +74,5 @@
 <p align="center">
   <em>Built with ❤️ in Yaoundé, Douala, and across Cameroon</em>  
   <br>
-  <img src="https://img.shields.io/github/stars/Kotlin-Cameroon/community?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/Kotlin-Cameroun/community?style=social" alt="GitHub Stars">
 </p>
